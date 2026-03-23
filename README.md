@@ -5,4 +5,4 @@
 - veronica
 
 # 소속
--SKKU_AWS
+- SKKU_AWS
