@@ -3,3 +3,6 @@
 
 # 작성자
 - veronica
+
+# 소속
+-SKKU_AWS
